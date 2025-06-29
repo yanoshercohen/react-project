@@ -1,5 +1,6 @@
 # 🧠 Memory Game
-<img width="70%" alt="image" src="https://github.com/user-attachments/assets/e169f00c-c933-45c0-aa5e-c025750ac1b2" />
+![image](https://github.com/user-attachments/assets/bd4ea225-0607-422e-82e8-e6ce68960bc6)
+
 
 A simple and clean memory card game built with React.
 
